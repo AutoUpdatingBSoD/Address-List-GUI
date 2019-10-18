@@ -1,4 +1,4 @@
-# Address-List-GUI
+# Address List GUI
 
 A Java address list program for a class
 
